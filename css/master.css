@@ -1,211 +1,210 @@
-.main{
-	background-color: black;
+.main {
+    background-color: black;
 }
 
-.face{
-	width: 200px;
-	height: 200px;
-	background-color: blue;
-	border-radius: 100px;
-	margin: auto;
+.face {
+    background-color: blue;
+    border-radius: 100px;
+    height: 200px;
+    margin: auto;
+    width: 200px;
 }
 
-.left_eye{
-	float: left;
-	width: 40px;
-	height: 40px;
-	border-radius: 20px;
-	background-color: white;
-	margin-top: 50px;
-	margin-left: 40px;
+.left_eye {
+    background-color: white;
+    border-radius: 20px;
+    float: left;
+    height: 40px;
+    margin-left: 40px;
+    margin-top: 50px;
+    width: 40px;
 }
 
-.right_eye{
-	float: right;
-	width: 40px;
-	height: 40px;
-	border-radius: 20px;
-	background-color: white;
-	margin-top: 50px;
-	margin-right: 40px;
+.right_eye {
+    float: right;
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: white;
+    margin-top: 50px;
+    margin-right: 40px;
 }
 
-.nose{
-	width: 20px;
-	height: 20px;
-	border-radius: 10px;
-	background-color: red;
-	margin: auto;
-	position: relative;
-	top:90px;
+.nose {
+    background-color: red;
+    border-radius: 10px;
+    height: 20px;
+    margin: auto;
+    position: relative;
+    top: 90px;
+    width: 20px;
 }
 
-.cl{
-	width: 20px;
-	height: 20px;
-	border-radius: 10px;
-	border:1px solid black;
-	position: relative;
-	top:20px;
-	background-color: black;
-	margin: auto;
+.cl {
+    background-color: black;
+    border-radius: 10px;
+    border: 1px solid black;
+    height: 20px;
+    margin: auto;
+    position: relative;
+    top: 20px;
+    width: 20px;
 }
 
-.cr{
-	width: 20px;
-	height: 20px;
-	border-radius: 10px;
-	border:1px solid black;
-	position: relative;
-	top:20px;
-	background-color: black;
-	margin: auto;
+.cr {
+    background-color: black;
+    border-radius: 10px;
+    border: 1px solid black;
+    height: 20px;
+    margin: auto;
+    position: relative;
+    top: 20px;
+    width: 20px;
 }
 
-.mouth{
-	width: 50px;
-	height: 25px;
-	border:solid 0px white;
-	border-radius: 0px 0px 50px 50px;
-	background-color: white;
-	position: relative;
-	top: 110px;
-	margin: auto;
+.mouth {
+    background-color: white;
+    border-radius: 0px 0px 50px 50px;
+    border: solid 0px white;
+    height: 25px;
+    margin: auto;
+    position: relative;
+    top: 110px;
+    width: 50px;
 }
 
-.toung{
-	width: 25px;
-	height: 12px;
-	background-color: red;
-	border-radius: 0px 0px 25px 25px;
-	border:1px solid red;
-	margin: auto;
+.toung {
+    background-color: red;
+    border-radius: 0px 0px 25px 25px;
+    border: 1px solid red;
+    height: 12px;
+    margin: auto;
+    width: 25px;
 }
 
-.sol{
-	width: 200px;
-	height: 30px;
-	background-color:blue;
-	margin:auto;
-	border-radius:30px 30px 0px 0px;
+.sol {
+    background-color: blue;
+    border-radius: 30px 30px 0px 0px;
+    height: 30px;
+    margin: auto;
+    width: 200px;
 }
 
-.ti{
-	background-color: red;
-	width: 150px;
-	height: 30px;
-	border-radius: 15px;
-	margin: auto;
-	position: relative;
-	top: -15px;
+.ti {
+    background-color: red;
+    border-radius: 15px;
+    height: 30px;
+    margin: auto;
+    position: relative;
+    top: -15px;
+    width: 150px;
 }
 
-.o{
-	width: 35px;
-	height: 35px;
-	background-color: yellow;
-	border-radius: 175px;
-	margin: auto;
-	position: relative;
-	top: -3px;
+.o {
+    background-color: yellow;
+    border-radius: 175px;
+    height: 35px;
+    margin: auto;
+    position: relative;
+    top: -3px;
+    width: 35px;
 }
 
-.stom{
-	width: 250px;
-	height: 250px;
-	background-color: blue;
-	margin: auto;
-	border-radius: 25px 25px 0px 0px;
+.stom {
+    background-color: blue;
+    border-radius: 25px 25px 0px 0px;
+    height: 250px;
+    margin: auto;
+    width: 250px;
 }
 
-.tom{
-	width: 180px;
-	height: 90px;
-	border-radius: 0px 0px 90px 90px;
-	background-color: white;
-	margin: auto;
-	position: relative;
-	top:150px;
+.tom {
+    background-color: white;
+    border-radius: 0px 0px 90px 90px;
+    height: 90px;
+    margin: auto;
+    position: relative;
+    top: 150px;
+    width: 180px;
 }
 
-.lhand{
-	width: 30px;
-	height: 150px;
-	background-color: blue;
-	border-radius: 20px;
-	position: relative;
-	left: -15px;
-	margin-top: 10px;
-	float: left;
-
+.lhand {
+    background-color: blue;
+    border-radius: 20px;
+    float: left;
+    height: 150px;
+    left: -15px;
+    margin-top: 10px;
+    position: relative;
+    width: 30px;
 }
 
-.pl{
-	border-radius: 20px;
-	height: 40px;
-	width: 40px;
-	background-color: white;
-	position: relative;
-	top:130px; 
-	left:-5px;
+.pl {
+    background-color: white;
+    border-radius: 20px;
+    height: 40px;
+    left: -5px;
+    position: relative;
+    top: 130px;
+    width: 40px;
 }
 
-
-.rhand{
-	width: 150px;
-	height: 30px;
-	background-color: blue;
-	float: right;
-	border-radius: 15px;
-	position: relative;
-	right: -140px;
-	top: 10px;
-}
-.pr{
-	border-radius: 20px;
-	height: 40px;
-	width: 40px;
-	background-color: white;
-	position: relative;
-	left: 130px;
-	top: -5px;
+.rhand {
+    background-color: blue;
+    border-radius: 15px;
+    float: right;
+    height: 30px;
+    position: relative;
+    right: -140px;
+    top: 10px;
+    width: 150px;
 }
 
-.down{
-	width: 250px;
-	height: 250px;
-	margin: auto;
-}	
-
-.lleg{
-	float: left;
-	width: 120px;
-	height: 100px;
-	background-color: blue;
+.pr {
+    background-color: white;
+    border-radius: 20px;
+    height: 40px;
+    left: 130px;
+    position: relative;
+    top: -5px;
+    width: 40px;
 }
 
-.rleg{
-	float: right;
-	width: 120px;
-	height: 100px;
-	background-color: blue;
+.down {
+    height: 250px;
+    margin: auto;
+    width: 250px;
 }
 
-.foot_left{
-	width: 120px;
-	height: 50px;
-	border-radius: 25px;
-	background-color: white;
-	position: relative;
-	top:80px;
+.lleg {
+    background-color: blue;
+    float: left;
+    height: 100px;
+    width: 120px;
 }
 
-.foot_right{
-	width: 120px;
-	height: 50px;
-	border-radius: 25px;
-	background-color: white;
-	float: right;
-	position: relative;
-	top:80px;
+.rleg {
+    background-color: blue;
+    float: right;
+    height: 100px;
+    width: 120px;
+}
+
+.foot_left {
+    background-color: white;
+    border-radius: 25px;
+    height: 50px;
+    position: relative;
+    top: 80px;
+    width: 120px;
+}
+
+.foot_right {
+    background-color: white;
+    border-radius: 25px;
+    float: right;
+    height: 50px;
+    position: relative;
+    top: 80px;
+    width: 120px;
 }
