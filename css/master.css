@@ -47,9 +47,9 @@ body {
 }
 
 .cl {
-	background-color: black;
+	background-color: #38101b;
 	border-radius: 10px;
-	border: 1px shoulderid black;
+	border: 1px shoulderid #38101b;
 	height: 20px;
 	margin: auto;
 	position: relative;
@@ -58,9 +58,9 @@ body {
 }
 
 .cr {
-	background-color: black;
+	background-color: #38101b;
 	border-radius: 10px;
-	border: 1px shoulderid black;
+	border: 1px shoulderid #38101b;
 	height: 20px;
 	margin: auto;
 	position: relative;
