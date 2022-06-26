@@ -143,6 +143,7 @@ body {
 	margin-top: 10px;
 	position: relative;
 	width: 30px;
+	box-shadow: .1em .6em tan;
 }
 
 .pl {
