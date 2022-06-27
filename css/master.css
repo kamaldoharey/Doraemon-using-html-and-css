@@ -154,6 +154,7 @@ body {
 	position: relative;
 	top: 130px;
 	width: 40px;
+	box-shadow: .2em .2em tan;
 }
 
 .right-hand {
