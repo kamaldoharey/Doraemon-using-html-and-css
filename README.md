@@ -2,5 +2,6 @@
 
 Doraemon made with html and css.
 
-![image](https://github.com/user-attachments/assets/d61f1de9-356d-40cc-bb51-d6ff01319cba)
+![image](https://github.com/user-attachments/assets/101cb783-748a-46a7-b937-254cfa573c5c)
+
 
