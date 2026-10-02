@@ -15,11 +15,11 @@ body {
   background-color: #e5d3bf;
 }
 
-.main {
+.doraemon-container {
   width: 100%;
 }
 
-.face {
+.doraemon-face {
   background-color: #068bcb;
   border-radius: 100px;
   height: 200px;
@@ -27,7 +27,7 @@ body {
   width: 200px;
 }
 
-.left-eye {
+.face-left-eye {
   background-color: white;
   border-radius: 20px;
   float: left;
@@ -37,7 +37,7 @@ body {
   width: 40px;
 }
 
-.right-eye {
+.face-right-eye {
   float: right;
   width: 40px;
   height: 40px;
@@ -47,7 +47,7 @@ body {
   margin-right: 40px;
 }
 
-.nose {
+.doraemon-nose {
   background-color: #f23736;
   border-radius: 10px;
   height: 20px;
@@ -57,7 +57,7 @@ body {
   width: 20px;
 }
 
-.cl {
+.cl-detail {
   background-color: #38101b;
   border-radius: 10px;
   border: 1px solid #38101b;
@@ -68,7 +68,7 @@ body {
   width: 20px;
 }
 
-.cr {
+.cr-detail {
   background-color: #38101b;
   border-radius: 10px;
   border: 1px solid #38101b;
@@ -79,7 +79,7 @@ body {
   width: 20px;
 }
 
-.mouth {
+.doraemon-mouth {
   background-color: white;
   border-radius: 0px 0px 50px 50px;
   border: solid 0px white;
@@ -99,7 +99,7 @@ body {
   width: 25px;
 }
 
-.shoulder {
+.body-shoulder {
   background-color: #068bcb;
   border-radius: 30px 30px 0px 0px;
   height: 30px;
@@ -107,7 +107,7 @@ body {
   width: 200px;
 }
 
-.tie {
+.tie-cloth {
   background-color: #f23736;
   border-radius: 15px;
   height: 30px;
@@ -117,7 +117,7 @@ body {
   width: 150px;
 }
 
-.o {
+.tie-knot {
   background-color: #f8d54a;
   border-radius: 175px;
   height: 35px;
@@ -127,7 +127,7 @@ body {
   width: 35px;
 }
 
-.stomach {
+.body-stomach {
   background-color: #068bcb;
   border-radius: 25px 25px 0px 0px;
   height: 250px;
@@ -135,17 +135,7 @@ body {
   width: 250px;
 }
 
-.white-pocket {
-  background-color: white;
-  border-radius: 0px 0px 90px 90px;
-  height: 90px;
-  margin: auto;
-  position: relative;
-  top: 150px;
-  width: 180px;
-}
-
-.left-hand {
+.hand-left {
   background-color: #068bcb;
   border-radius: 20px;
   float: left;
@@ -157,7 +147,7 @@ body {
   box-shadow: 0.1em 0.6em tan;
 }
 
-.left-palm {
+.hand-left-palm {
   background-color: white;
   border-radius: 20px;
   height: 40px;
@@ -168,7 +158,7 @@ body {
   box-shadow: 0.2em 0.2em tan;
 }
 
-.right-hand {
+.hand-right {
   background-color: #068bcb;
   border-radius: 15px;
   float: right;
@@ -179,7 +169,7 @@ body {
   width: 150px;
 }
 
-.right-palm {
+.hand-right-palm {
   background-color: white;
   border-radius: 20px;
   height: 50px;
@@ -189,27 +179,26 @@ body {
   width: 40px;
 }
 
-.down {
-  /* height: 250px; */
+.body-bottom {
   margin: auto;
   width: 250px;
 }
 
-.left-leg {
+.leg-left {
   background-color: #068bcb;
   float: left;
   height: 100px;
   width: 120px;
 }
 
-.right-leg {
+.leg-right {
   background-color: #068bcb;
   float: right;
   height: 100px;
   width: 120px;
 }
 
-.left-foot {
+.foot-left {
   background-color: white;
   border-radius: 25px;
   height: 50px;
@@ -218,7 +207,7 @@ body {
   width: 120px;
 }
 
-.right-foot {
+.foot-right {
   background-color: white;
   border-radius: 25px;
   float: right;
